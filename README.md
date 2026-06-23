@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0214-shortest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -16,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
