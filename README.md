@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1392-longest-happy-prefix) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Sliding Window
 |  |
@@ -53,4 +54,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0021-merge-two-sorted-lists) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Simulation
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
