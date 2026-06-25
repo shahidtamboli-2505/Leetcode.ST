@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0214-shortest-palindrome) |
+| [0394-decode-string](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1392-longest-happy-prefix) |
@@ -54,9 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0021-merge-two-sorted-lists) |
+| [0394-decode-string](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Simulation
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
