@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0093-restore-ip-addresses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
