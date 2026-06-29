@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0128-longest-consecutive-sequence) |
 | [0952-largest-component-size-by-common-factor](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0952-largest-component-size-by-common-factor) |
+| [2076-process-restricted-friend-requests](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2076-process-restricted-friend-requests) |
 ## Greedy
 |  |
 | ------- |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0952-largest-component-size-by-common-factor) |
+## Graph Theory
+|  |
+| ------- |
+| [2076-process-restricted-friend-requests](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2076-process-restricted-friend-requests) |
 <!---LeetCode Topics End-->
