@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0424-longest-repeating-character-replacement) |
 | [0952-largest-component-size-by-common-factor](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0952-largest-component-size-by-common-factor) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -144,4 +145,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2076-process-restricted-friend-requests](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2076-process-restricted-friend-requests) |
+| [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 <!---LeetCode Topics End-->
