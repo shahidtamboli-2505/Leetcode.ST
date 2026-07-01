@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0128-longest-consecutive-sequence) |
 | [0952-largest-component-size-by-common-factor](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0952-largest-component-size-by-common-factor) |
+| [1971-find-if-path-exists-in-graph](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1971-find-if-path-exists-in-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2076-process-restricted-friend-requests) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Greedy
@@ -149,12 +150,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1971-find-if-path-exists-in-graph](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1971-find-if-path-exists-in-graph) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2076-process-restricted-friend-requests) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
