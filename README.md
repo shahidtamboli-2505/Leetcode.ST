@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2223-sum-of-scores-of-built-strings) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Suffix Array
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2065-maximum-path-quality-of-a-graph) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0128-longest-consecutive-sequence) |
 | [0952-largest-component-size-by-common-factor](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0952-largest-component-size-by-common-factor) |
 | [2076-process-restricted-friend-requests](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2076-process-restricted-friend-requests) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -149,4 +152,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2065-maximum-path-quality-of-a-graph](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2076-process-restricted-friend-requests) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
