@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2065-maximum-path-quality-of-a-graph](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -154,21 +155,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2065-maximum-path-quality-of-a-graph](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2076-process-restricted-friend-requests) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1971-find-if-path-exists-in-graph) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
