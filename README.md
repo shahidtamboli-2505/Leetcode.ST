@@ -249,4 +249,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2642-design-graph-with-shortest-path-calculator) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
