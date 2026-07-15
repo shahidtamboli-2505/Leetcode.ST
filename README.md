@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0797-all-paths-from-source-to-target) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0463-island-perimeter) |
+| [0743-network-delay-time](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0797-all-paths-from-source-to-target) |
 | [0815-bus-routes](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0815-bus-routes) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1129-shortest-path-with-alternating-colors) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0743-network-delay-time) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3620-network-recovery-pathways) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0463-island-perimeter) |
+| [0743-network-delay-time](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0743-network-delay-time) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
