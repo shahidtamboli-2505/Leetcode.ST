@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0952-largest-component-size-by-common-factor) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2065-maximum-path-quality-of-a-graph) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -252,9 +254,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
