@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0128-longest-consecutive-sequence) |
+| [0307-range-sum-query-mutable](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0307-range-sum-query-mutable) |
 | [0463-island-perimeter](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0463-island-perimeter) |
 | [0815-bus-routes](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0815-bus-routes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0952-largest-component-size-by-common-factor) |
@@ -105,11 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0307-range-sum-query-mutable) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0307-range-sum-query-mutable) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0307-range-sum-query-mutable) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Tree
 |  |
@@ -278,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
