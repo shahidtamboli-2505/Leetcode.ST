@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0014-longest-common-prefix) |
 | [0093-restore-ip-addresses](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0093-restore-ip-addresses) |
 | [0214-shortest-palindrome](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0394-decode-string) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0014-longest-common-prefix) |
 | [0128-longest-consecutive-sequence](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0128-longest-consecutive-sequence) |
 | [0307-range-sum-query-mutable](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0307-range-sum-query-mutable) |
 | [0463-island-perimeter](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0463-island-perimeter) |
@@ -313,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0486-predict-the-winner) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
