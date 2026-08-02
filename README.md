@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0720-longest-word-in-dictionary) |
 | [0731-my-calendar-ii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0731-my-calendar-ii) |
 | [0815-bus-routes](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0815-bus-routes) |
+| [0877-stone-game](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0877-stone-game) |
 | [0952-largest-component-size-by-common-factor](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0952-largest-component-size-by-common-factor) |
 | [1301-number-of-paths-with-max-score](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1301-number-of-paths-with-max-score) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0877-stone-game) |
 | [0952-largest-component-size-by-common-factor](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0952-largest-component-size-by-common-factor) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3620-network-recovery-pathways](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3620-network-recovery-pathways) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0877-stone-game) |
 ## Trie
 |  |
 | ------- |
