@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0424-longest-repeating-character-replacement) |
+| [0720-longest-word-in-dictionary](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0720-longest-word-in-dictionary) |
 | [0815-bus-routes](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0815-bus-routes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0952-largest-component-size-by-common-factor) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0424-longest-repeating-character-replacement) |
+| [0720-longest-word-in-dictionary](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0720-longest-word-in-dictionary) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1392-longest-happy-prefix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0307-range-sum-query-mutable) |
 | [0463-island-perimeter](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0486-predict-the-winner) |
+| [0720-longest-word-in-dictionary](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0720-longest-word-in-dictionary) |
 | [0731-my-calendar-ii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0731-my-calendar-ii) |
 | [0815-bus-routes](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0815-bus-routes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0952-largest-component-size-by-common-factor) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0720-longest-word-in-dictionary](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0720-longest-word-in-dictionary) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Math
@@ -319,4 +323,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0014-longest-common-prefix) |
+| [0720-longest-word-in-dictionary](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0720-longest-word-in-dictionary) |
 <!---LeetCode Topics End-->
