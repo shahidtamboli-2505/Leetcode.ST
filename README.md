@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0877-stone-game) |
 | [0952-largest-component-size-by-common-factor](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0952-largest-component-size-by-common-factor) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1301-number-of-paths-with-max-score) |
@@ -379,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0011-container-with-most-water) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
