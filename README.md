@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0307-range-sum-query-mutable) |
 | [0463-island-perimeter](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0494-target-sum) |
 | [0720-longest-word-in-dictionary](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0720-longest-word-in-dictionary) |
 | [0731-my-calendar-ii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0731-my-calendar-ii) |
 | [0815-bus-routes](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0815-bus-routes) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0093-restore-ip-addresses) |
+| [0494-target-sum](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0797-all-paths-from-source-to-target) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2065-maximum-path-quality-of-a-graph) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -388,4 +391,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
