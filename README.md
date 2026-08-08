@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0424-longest-repeating-character-replacement) |
 | [0720-longest-word-in-dictionary](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0720-longest-word-in-dictionary) |
 | [0815-bus-routes](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0815-bus-routes) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0014-longest-common-prefix) |
 | [0093-restore-ip-addresses](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0139-word-break) |
 | [0214-shortest-palindrome](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0424-longest-repeating-character-replacement) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0014-longest-common-prefix) |
 | [0128-longest-consecutive-sequence](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0198-house-robber) |
 | [0307-range-sum-query-mutable](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0307-range-sum-query-mutable) |
 | [0463-island-perimeter](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0463-island-perimeter) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0494-target-sum) |
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0139-word-break) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0720-longest-word-in-dictionary](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0720-longest-word-in-dictionary) |
 ## Minimum Spanning Tree
@@ -399,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0139-word-break) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -407,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0494-target-sum) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
