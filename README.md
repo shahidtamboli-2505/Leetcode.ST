@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0815-bus-routes) |
 | [0877-stone-game](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0877-stone-game) |
 | [0952-largest-component-size-by-common-factor](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0952-largest-component-size-by-common-factor) |
+| [1140-stone-game-ii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1140-stone-game-ii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1191-k-concatenation-maximum-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1301-number-of-paths-with-max-score) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0731-my-calendar-ii) |
+| [1140-stone-game-ii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1140-stone-game-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Backtracking
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0877-stone-game) |
 | [0952-largest-component-size-by-common-factor](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0952-largest-component-size-by-common-factor) |
+| [1140-stone-game-ii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1140-stone-game-ii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1191-k-concatenation-maximum-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1406-stone-game-iii) |
 ## Trie
 |  |
@@ -394,10 +399,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1406-stone-game-iii) |
 ## Two Pointers
 |  |
