@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0877-stone-game) |
