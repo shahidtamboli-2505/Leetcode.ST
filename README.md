@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0014-longest-common-prefix) |
 | [0093-restore-ip-addresses](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0097-interleaving-string) |
