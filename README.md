@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0004-median-of-two-sorted-arrays) |
 | [0731-my-calendar-ii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0731-my-calendar-ii) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0014-longest-common-prefix) |
 | [0128-longest-consecutive-sequence](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0128-longest-consecutive-sequence) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0004-median-of-two-sorted-arrays) |
 | [0307-range-sum-query-mutable](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0307-range-sum-query-mutable) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3739-count-subarrays-with-majority-element-ii) |
