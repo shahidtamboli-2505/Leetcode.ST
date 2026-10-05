@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0070-climbing-stairs) |
+| [0292-nim-game](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0877-stone-game) |
 | [0952-largest-component-size-by-common-factor](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0952-largest-component-size-by-common-factor) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1140-stone-game-ii) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1510-stone-game-iv) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/1510-stone-game-iv) |
 ## Sprague–Grundy Theorem
 |  |
@@ -485,4 +489,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3115-maximum-prime-difference](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/3115-maximum-prime-difference) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shahidtamboli-2505/Leetcode.ST/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
